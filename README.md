@@ -260,7 +260,7 @@ ctext.value=""+cval;
 ```
 ## OUTPUT:
 
-![output](./img/output.png)
+![output](./img/Output.png)
 
 ## Result:
 
